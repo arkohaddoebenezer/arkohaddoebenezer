@@ -134,8 +134,6 @@
             alt="react" width="40" height="40" />
     </a>
 </p>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a2a4680-2272-4f07-8ff2-d19ce969b6be" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=arkohaddoebenezer&show_icons=true&locale=en&layout=compact"
@@ -146,4 +144,4 @@
         alt="arkohaddoebenezer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkohaddoebenezer&"
-        alt="arkohaddoebenezer" />
+        alt="arkohaddoebenezer" /></p>
