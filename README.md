@@ -1,6 +1,5 @@
 <img width="100%" height="15%"
-    src="https://anansetechhub.com/images/intro.png">
-
+src="https://www.spec-india.com/wp-content/uploads/2023/01/Laravel-Developer-Feature-Image.png">
 <h1 align="center">Hi 👋, I'm Eben</h1>
 <h3 align="center">Full Stack Developer / IT Specialist</h3>
 
