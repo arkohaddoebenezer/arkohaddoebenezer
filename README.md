@@ -17,7 +17,7 @@ src="https://www.spec-india.com/wp-content/uploads/2023/01/Laravel-Developer-Fea
 
 - 🔭 I’m currently working on **starprofile.online**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
