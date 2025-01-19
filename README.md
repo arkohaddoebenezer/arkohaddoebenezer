@@ -1,7 +1,7 @@
 <img width="100%" height="15%"
 src="https://www.spec-india.com/wp-content/uploads/2023/01/Laravel-Developer-Feature-Image.png">
 <h1 align="center">Hi 👋, I'm Eben</h1>
-<h3 align="center">Full Stack Developer / IT Specialist</h3>
+<h3 align="center">Full Stack Engineer | IT Specialist</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=arkohaddoebenezer&label=Profile%20views&color=0e75b6&style=flat"
@@ -15,21 +15,21 @@ src="https://www.spec-india.com/wp-content/uploads/2023/01/Laravel-Developer-Fea
             src="https://img.shields.io/twitter/follow/earkohaddo?logo=twitter&style=for-the-badge"
             alt="earkohaddo" /></a> </p>
 
-- 🔭 I’m currently working on **starprofile.online**
+- 🔭 I’m currently working on **peoplesbest.net**
 
 - 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
 - 👨‍💻 All of my projects are available at
-[https://earkohaddo.starprofile.online/#/projects](https://earkohaddo.starprofile.online/#/projects)
+[https://earkohaddo.peoplesbest.net/#/projects](https://earkohaddo.peoplesbest.net/#/projects)
 
-- 💬 Ask me about **Laravel, PHP, Java, Python, JavaScript**
+- 💬 Ask me about **Software Architectures, Design Patterns, Laravel, Springboot, PHP, Java, Python**
 
 - 📫 How to reach me **arkohaddoebenezer21@gmail.com**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1-pOAMUH1EkJfIH-fKUORDOvChlpylaer/view?usp=sharing](https://drive.google.com/file/d/1-pOAMUH1EkJfIH-fKUORDOvChlpylaer/view?usp=sharing)
+[https://earkohaddo.peoplesbest.net/#/projects](https://earkohaddo.peoplesbest.net/#/experience)
 
 - ⚡ Fun fact **I have no sense of humour. Why are you laughing?**
 
