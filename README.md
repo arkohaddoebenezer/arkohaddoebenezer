@@ -31,7 +31,7 @@ src="https://www.spec-india.com/wp-content/uploads/2023/01/Laravel-Developer-Fea
 - 📄 Know about my experiences
 [https://earkohaddo.peoplesbest.net/#/projects](https://earkohaddo.peoplesbest.net/#/experience)
 
-- ⚡ Fun fact **I have no sense of humour. Why are you laughing?**
+- ⚡ Fun fact **{...love}**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
